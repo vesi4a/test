@@ -1,6 +1,6 @@
-1 5
-4 3
-2 1
+2 1 5
+2 4 3
+2 2 1
 7 6
 8 5
 9 5
@@ -11,9 +11,8 @@
 1 8
 3 9
 3 0
-4 2
-6 3
+2 4 2
+2 6 3
 tova ne moje da byde
 this is shit code I tell you
-blabla
-spindermancheto weeeee
+
